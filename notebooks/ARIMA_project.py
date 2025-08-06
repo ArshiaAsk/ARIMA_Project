@@ -5,7 +5,7 @@ import mplfinance as mpf
 
 
 
-data = pd.read_csv(r"C:\Users\2023\Desktop\Arshia_project\Sanji_Project\DataFrame\Modify_World_Oil_price.csv")
+data = pd.read_csv("Modify_World_Oil_price.csv")
 print(data)
 
 
